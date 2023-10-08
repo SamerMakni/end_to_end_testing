@@ -1,0 +1,158 @@
+
+
+====================================================================================================
+
+  (Run Starting)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Cypress:        13.3.0                                                                         │
+  │ Browser:        Electron 114 (headless)                                                        │
+  │ Node Version:   v16.17.1 (C:\Program Files\nodejs\node.exe)                                    │
+  │ Specs:          1 found (spec.cy.js)                                                           │
+  │ Searched:       cypress/e2e/**/*.cy.{js,jsx,ts,tsx}                                            │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                    
+  Running:  spec.cy.js                                                                      (1 of 1)
+
+
+  test_1
+the src is: /api/ext/prismic/images/42efca090b9c60f20bb32ffb65894e16.jpg?
+    √ passes (4847ms)
+
+  test_2
+the text is: A szerethető design
+the button is: <3
+    √ passes (2270ms)
+
+  test_3
+product_link: https://butopea.com/egyszemelyes-agy-fem-kerettel-feher-90-cm-voie-lactee
+product_name: Egyszemélyes ágy, fém kerettel, fehér, 90 cm - VOIE LACTEE
+product_price: 82.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/ketszemelyes-agy-tarolohellyel-szurke-160-cm-uranus
+product_name: Kétszemélyes ágy, tárolóhellyel, szürke, 160 cm - URANUS
+product_price: 279.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/szovet-fotel-fem-kerettel-vilagosszurke-hey
+product_name: Szövet fotel, fém kerettel, világosszürke - HEY
+product_price: 97.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/ketszemelyes-agy-tarolohellyel-barsonyszovet-steppelt-szurke-160-cm-pluton
+product_name: Kétszemélyes ágy, tárolóhellyel, bársonyszövet, steppelt, szürke, 160 cm - PLUTON
+product_price: 319.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/ketszemelyes-agy-tarolohellyel-feher-160-cm-uranus
+product_name: Kétszemélyes ágy, tárolóhellyel, fehér, 160 cm - URANUS
+product_price: 270.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/szovet-fotel-parnaval-fekete-labakkal-vilagosszurke-calotte
+product_name: Szövet fotel, párnával, fekete lábakkal, világosszürke  - CALOTTE
+product_price: 95.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-fulesfotel-steppelt-mustarsarga-challenge
+product_name: Bársonyszövet fülesfotel, steppelt, mustársárga - CHALLENGE
+product_price: 95.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-puff-taroloval-puderrozsaszin-rocher
+product_name: Bársonyszövet puff, tárolóval, púderrózsaszín - ROCHER
+product_price: 29.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-puff-taroloval-vilagosszurke-rocher
+product_name: Bársonyszövet puff, tárolóval, világosszürke - ROCHER
+product_price: 29.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-karfas-fotel-pava-mintaval-kiralykek-priore
+product_name: Bársonyszövet karfás fotel, páva mintával, királykék - PRIORE
+product_price: 129.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-fulesfotel-steppelt-kiralykek-challenge
+product_name: Bársonyszövet fülesfotel, steppelt, királykék - CHALLENGE
+product_price: 95.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-karfas-fotel-pava-mintaval-sotetszurke-priore
+product_name: Bársonyszövet karfás fotel, páva mintával, sötétszürke - PRIORE
+product_price: 129.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-karfas-fotel-kiralykek-csikozott-mintaval-papal
+product_name: Bársonyszövet karfás fotel, királykék, csíkozott mintával - PAPAL
+product_price: 142.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-karfas-fotel-vilagosszurke-pacha
+product_name: Bársonyszövet, karfás fotel, világosszürke - PACHA
+product_price: 106.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-karfas-fotel-pava-mintaval-fenyozold-priore
+product_name: Bársonyszövet karfás fotel, páva mintával, fenyőzöld - PRIORE
+product_price: 129.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+product_link: https://butopea.com/barsonyszovet-karfas-fotel-arany-labakkal-vilagosszurke-club
+product_name: Bársonyszövet karfás fotel, arany lábakkal, világosszürke - CLUB
+product_price: 93.990 Ft
+product_image: https://butopea.com/assets/placeholder-light.svg
+
+
+    √ passes (4998ms)
+
+
+  3 passing (15s)
+
+
+  (Results)
+
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ Tests:        3                                                                                │
+  │ Passing:      3                                                                                │
+  │ Failing:      0                                                                                │
+  │ Pending:      0                                                                                │
+  │ Skipped:      0                                                                                │
+  │ Screenshots:  0                                                                                │
+  │ Video:        false                                                                            │
+  │ Duration:     14 seconds                                                                       │
+  │ Spec Ran:     spec.cy.js                                                                       │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+====================================================================================================
+
+  (Run Finished)
+
+
+       Spec                                              Tests  Passing  Failing  Pending  Skipped  
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │ √  spec.cy.js                               00:14        3        3        -        -        - │
+  └────────────────────────────────────────────────────────────────────────────────────────────────┘
+    √  All specs passed!                        00:14        3        3        -        -        -  
+
