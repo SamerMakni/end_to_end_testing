@@ -15,14 +15,17 @@ cd end_to_end_testing
 npm install
 ```
 ## Usage
-- You can run the tests in the Cypress browser by running the following command.
-```bash
-npx cypress open
-```
 - You can run the tests in terminal by running the following command.
 ```bash
 npx cypress run
 ```
+
+- You can run the tests in the Cypress browser by running the following command
+```bash
+npx cypress open
+```
+A window will open displaying the Cypress interface, select `spec.cy.js` there.
+
 ## Explanation of code
 - The tests are written in `cypress/e2e/spec.cy.js` directory.
 - Ther are 3 tests in to test these 3 scenarios seen in the image below.
